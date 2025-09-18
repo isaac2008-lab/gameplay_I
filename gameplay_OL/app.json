@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "gameplay",
-    "slug": "gameplay",
+    "name": "gameplay_ol",
+    "slug": "gameplay_ol",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
